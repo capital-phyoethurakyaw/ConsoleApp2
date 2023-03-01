@@ -12,6 +12,7 @@ namespace ConsoleApp2
         {
             var s = 123;
             var b1 = "";
+            var b2 = "";
         }
     }
 }
