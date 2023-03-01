@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         { 
-            var b1 = "";
+            //pyk var b1 = "";
             var b2 = "";
         }
     }
