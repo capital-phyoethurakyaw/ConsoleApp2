@@ -11,6 +11,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             var s = 123;
+            var b1 = "";
         }
     }
 }
